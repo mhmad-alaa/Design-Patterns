@@ -1,4 +1,4 @@
-# The Strategy Pattern
+# Strategy Pattern
 
 ``` 
     defines a family of algorithms,
