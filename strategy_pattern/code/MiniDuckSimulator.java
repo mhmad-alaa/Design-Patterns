@@ -1,3 +1,5 @@
+package strategy_pattern.code;
+
 public class MiniDuckSimulator {
     public static void main(String[] args) {
         // Duck mallard = new MallardDuck(); 

@@ -1,3 +1,5 @@
+package strategy_pattern.code;
+
 public abstract class Duck {
 
     FlyBehavior flyBehavior;

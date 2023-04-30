@@ -1,3 +1,5 @@
+package strategy_pattern.code;
+
 public class ModelDuck extends Duck {
     public ModelDuck() {
         flyBehavior = new FlyNoWay();
